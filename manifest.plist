@@ -15,12 +15,12 @@
           <key>url</key>
           <string>https://drive.google.com/uc?export=download&id=1AsPf4b5QUQbkfFVIFJzgCyFGspgClwKe</string>
         </dict>
-        <!-- App icon -->
+        <!-- App icon hosted on GitHub Pages -->
         <dict>
           <key>kind</key>
           <string>display-image</string>
           <key>url</key>
-          <string>https://i.ibb.co/7JQHGTwS/unnamed.png</string>
+          <string>https://somthingsui.github.io/toca-world-distribution/icon.png</string>
         </dict>
       </array>
       <key>metadata</key>
